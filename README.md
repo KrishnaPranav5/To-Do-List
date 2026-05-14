@@ -7,6 +7,7 @@ A simple command-line To-Do List application built using Python. This project he
 - View all tasks
 - Update task details
 - Delete tasks
+- Sort tasks
 - Store tasks in a JSON file
 
 ## 🛠️ Technologies Used
